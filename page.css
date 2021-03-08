@@ -269,9 +269,10 @@ h1{
 }
 
 
-.card-detail a{
+.in-column a{
+    font-size: 20px;
     width: 20%;
-    padding: 16px 32px;
+    padding: 12px 24px;
     margin-right: 30px;
     border-radius: 24px;
     background-color: #282936;
