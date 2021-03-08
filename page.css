@@ -263,10 +263,16 @@ h1{
     margin-top: 25px;
 }
 
+.in-column{
+    display: flex;
+    flex-direction: row;
+}
+
 
 .card-detail a{
     width: 20%;
     padding: 16px 32px;
+    margin-right: 30px;
     border-radius: 24px;
     background-color: #282936;
     color: #f3f8fa;
